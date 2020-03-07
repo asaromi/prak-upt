@@ -1,0 +1,15 @@
+## Sistem Informasi Pengajuan Surat Keterangan Aktif Kuliah
+
+# User => admin & user
+- untuk menggunakan sistem harus memiliki akun
+
+Admin :
+- memonitoring pengajuan surat
+
+User :
+- mengajukan surat aktif kuliah
+
+# Database
+- user
+- program studi
+- surat
